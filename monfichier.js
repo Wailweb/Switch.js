@@ -1,7 +1,8 @@
-var favoriteColor=  "blue";
+var favoriteColor=  "yellow";
 
 switch(favoriteColor)
 {
+  case "yellow":
   case "blue":
         console.log("Wouah! le bleu c'est trop beaux");
         break;
