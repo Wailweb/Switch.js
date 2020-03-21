@@ -1,4 +1,4 @@
-var favoriteColor=  "red";
+var favoriteColor=  "blue";
 
 switch(favoriteColor)
 {
